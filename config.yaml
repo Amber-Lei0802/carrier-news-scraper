@@ -79,7 +79,7 @@ filters:
 ai:
   enabled: true
   # Model priority — the client auto-falls back on 429 / quota
-  model: "gemini-2.5-flash"
+  model: "gemini-3.6-flash"
   rate_limit_seconds: 8
   # The "batch" here is conceptual — we send all news items in one
   # prompt for synthesis into a single integrated report.
