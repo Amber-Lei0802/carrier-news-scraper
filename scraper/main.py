@@ -165,9 +165,9 @@ if not report:
 report_path = save_report(report, config)
 print(f" Report saved to: {report_path}")
 
-    print("\n" + "=" * 60)
-    print(f"Done — {len(new_items)} new carrier items collected.")
-    print("=" * 60)
+print("\n" + "=" * 60)
+print(f"Done — {len(new_items)} new carrier items collected.")
+print("=" * 60)
 
 
 if __name__ == "__main__":
