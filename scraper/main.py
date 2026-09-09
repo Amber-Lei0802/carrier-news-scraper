@@ -131,42 +131,42 @@ def main():
         print("\nNo new carrier items — skipping report generation.")
         return
 
-# Step 5: Save raw data
-print("\n[4/4] Saving raw data...")
-raw_path = save_raw_items(new_items, config)
-print(f" Raw data saved to: {raw_path}")
+    # Step 5: Save raw data
+    print("\n[4/4] Saving raw data...")
+    raw_path = save_raw_items(new_items, config)
+    print(f" Raw data saved to: {raw_path}")
 
-# Update seen URLs
-new_urls = [i.get("url", "") for i in new_items if i.get("url")]
-save_seen_urls(config, new_urls)
-print(f" Added {len(new_urls)} new URLs to seen history")
+    # Update seen URLs
+    new_urls = [i.get("url", "") for i in new_items if i.get("url")]
+    save_seen_urls(config, new_urls)
+    print(f" Added {len(new_urls)} new URLs to seen history")
 
-# Step 6: AI briefing generation
-report = ""
-if ai_enabled():
-    print("\n[AI] Generating carrier briefing...")
-    from ai.briefing import generate_carrier_briefing
-    report = generate_carrier_briefing(new_items, config)
-    if report:
-        print("[AI] AI summary generated successfully")
-    else:
-        print(" Report generation failed or returned empty. Building fallback simple report.")
+    # Step 6: AI briefing generation
+    report = ""
+    if ai_enabled():
+        print("\n[AI] Generating carrier briefing...")
+        from ai.briefing import generate_carrier_briefing
+        report = generate_carrier_briefing(new_items, config)
+        if report:
+            print("[AI] AI summary generated successfully")
+        else:
+            print(" Report generation failed or returned empty. Building fallback simple report.")
 
-# 兜底：AI调用失败时，直接生成简易新闻清单
-if not report:
-    report = "# US Carrier News Briefing (AI Summary Failed)\n\n"
-    for item in new_items:
-        title = item.get("title", "No Title")
-        url = item.get("url", "#")
-        report += f"- [{title}]({url})\n\n"
+    # 兜底：AI调用失败时，直接生成简易新闻清单
+    if not report:
+        report = "# US Carrier News Briefing (AI Summary Failed)\n\n"
+        for item in new_items:
+            title = item.get("title", "No Title")
+            url = item.get("url", "#")
+            report += f"- [{title}]({url})\n\n"
 
-# 无论AI成功与否，都会保存报告
-report_path = save_report(report, config)
-print(f" Report saved to: {report_path}")
+    # 无论AI成功与否，都会保存报告
+    report_path = save_report(report, config)
+    print(f" Report saved to: {report_path}")
 
-print("\n" + "=" * 60)
-print(f"Done – {len(new_items)} new carrier items collected.")
-print("=" * 60)
+    print("\n" + "=" * 60)
+    print(f"Done – {len(new_items)} new carrier items collected.")
+    print("=" * 60)
 
 
 
