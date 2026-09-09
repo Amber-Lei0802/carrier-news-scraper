@@ -131,22 +131,21 @@ def main():
         print("\nNo new carrier items — skipping report generation.")
         return
 
-    # Step 5: Save raw data
-    print("\n[4/4] Saving raw data...")
-    raw_path = save_raw_items(new_items, config)
-    print(f"  Raw data saved to: {raw_path}")
+# Step 5: Save raw data
+print("\n[4/4] Saving raw data...")
+raw_path = save_raw_items(new_items, config)
+print(f" Raw data saved to: {raw_path}")
 
-    # Update seen URLs
-    new_urls = [i.get("url", "") for i in new_items if i.get("url")]
-    save_seen_urls(config, new_urls)
-    print(f"  Added {len(new_urls)} new URLs to seen history")
+# Update seen URLs
+new_urls = [i.get("url", "") for i in new_items if i.get("url")]
+save_seen_urls(config, new_urls)
+print(f" Added {len(new_urls)} new URLs to seen history")
 
-    # Step 6: AI briefing generation
+# Step 6: AI briefing generation
 report = ""
 if ai_enabled():
     print("\n[AI] Generating carrier briefing...")
     from ai.briefing import generate_carrier_briefing
-
     report = generate_carrier_briefing(new_items, config)
     if report:
         print("[AI] AI summary generated successfully")
@@ -166,8 +165,9 @@ report_path = save_report(report, config)
 print(f" Report saved to: {report_path}")
 
 print("\n" + "=" * 60)
-print(f"Done — {len(new_items)} new carrier items collected.")
+print(f"Done – {len(new_items)} new carrier items collected.")
 print("=" * 60)
+
 
 
 if __name__ == "__main__":
