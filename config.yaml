@@ -1,0 +1,64 @@
+# ============================================================
+# 美国航母每日动态简报 - 配置文件
+# 所有参数集中管理，无需修改代码
+# ============================================================
+
+# ---------- 新闻源配置 ----------
+# 支持 RSS 和 HTML 两种抓取方式
+# 可按需增删源，格式保持一致即可
+news_sources:
+  rss:
+    - name: "Google News - US Aircraft Carriers"
+      url: "https://news.google.com/rss/search?q=US+aircraft+carrier+Navy&hl=en-US&gl=US&ceid=US:en"
+    - name: "Google News - Carrier Strike Group"
+      url: "https://news.google.com/rss/search?q=carrier+strike+group+deployment&hl=en-US&gl=US&ceid=US:en"
+    - name: "Navy Times"
+      url: "https://www.navytimes.com/rss/"
+    - name: "Google News - 航母"
+      url: "https://news.google.com/rss/search?q=航母+动态&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+
+  html:
+    - name: "Google News HTML - Carrier"
+      url: "https://news.google.com/search?q=US+aircraft+carrier+navy&hl=en-US&gl=US&ceid=US:en"
+      article_selector: "article"
+      title_selector: "h3"
+      link_selector: "a"
+
+# ---------- 大模型配置 ----------
+# 支持 gemini / openai 两种 provider
+# 模型自动降级链：主模型 → 备选模型1 → 备选模型2
+ai:
+  provider: "gemini"
+  gemini:
+    api_key_env: "GEMINI_API_KEY"
+    models:
+      - "gemini-2.5-flash"
+      - "gemini-2.0-flash"
+      - "gemini-2.0-flash-lite"
+    rate_limit_seconds: 7
+  openai:
+    api_key_env: "OPENAI_API_KEY"
+    base_url_env: "OPENAI_BASE_URL"    # 可选，兼容第三方 API
+    model: "gpt-4o-mini"
+
+# ---------- 邮件配置 ----------
+email:
+  enabled: true
+  smtp_host_env: "SMTP_HOST"
+  smtp_port_env: "SMTP_PORT"
+  smtp_user_env: "SMTP_USER"
+  smtp_pass_env: "SMTP_PASS"
+  sender_env: "EMAIL_SENDER"
+  recipients_env: "EMAIL_RECIPIENTS"   # 多个收件人用逗号分隔
+
+# ---------- 报告配置 ----------
+report:
+  language: "zh-CN"                    # zh-CN 中文 / en 英文
+  max_items: 30                        # 送入大模型的最大新闻条数
+  output_dir: "output"
+
+# ---------- 抓取配置 ----------
+scraping:
+  request_timeout: 15                  # 请求超时(秒)
+  delay_between_requests: 1.5          # 请求间隔(秒)，避免被封
+  max_retries: 2                       # 失败重试次数

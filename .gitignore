@@ -1,0 +1,28 @@
+# 环境变量（含密钥）
+.env
+*.env.local
+
+# Python 虚拟环境
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# 本地输出（GitHub Actions 中会单独提交）
+output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+Thumbs.db
