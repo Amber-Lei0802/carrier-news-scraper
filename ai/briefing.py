@@ -34,7 +34,7 @@ def generate_carrier_briefing(
         return ""
 
     ai_config = config.get("ai", {})
-    model = ai_config.get("model", "gemini-2.5-flash")
+    model = ai_config.get("model", "gemini-3.6-flash")
     rate_limit = ai_config.get("rate_limit_seconds", 8)
     max_tokens = ai_config.get("max_output_tokens", 4096)
     temperature = ai_config.get("temperature", 0.3)
