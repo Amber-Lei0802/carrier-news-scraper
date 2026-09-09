@@ -142,19 +142,28 @@ def main():
     print(f"  Added {len(new_urls)} new URLs to seen history")
 
     # Step 6: AI briefing generation
-    if ai_enabled():
-        print("\n[AI] Generating carrier briefing...")
-        from ai.briefing import generate_carrier_briefing
+report = ""
+if ai_enabled():
+    print("\n[AI] Generating carrier briefing...")
+    from ai.briefing import generate_carrier_briefing
 
-        report = generate_carrier_briefing(new_items, config)
-        if report:
-            report_path = save_report(report, config)
-            print(f"  Report saved to: {report_path}")
-        else:
-            print("  Report generation failed or returned empty.")
+    report = generate_carrier_briefing(new_items, config)
+    if report:
+        print("[AI] AI summary generated successfully")
     else:
-        print("\n[AI] Skipped — GEMINI_API_KEY not set")
-        print("       Set the key in .env to enable daily briefing generation.")
+        print(" Report generation failed or returned empty. Building fallback simple report.")
+
+# 兜底：AI调用失败时，直接生成简易新闻清单
+if not report:
+    report = "# US Carrier News Briefing (AI Summary Failed)\n\n"
+    for item in new_items:
+        title = item.get("title", "No Title")
+        url = item.get("url", "#")
+        report += f"- [{title}]({url})\n\n"
+
+# 无论AI成功与否，都会保存报告
+report_path = save_report(report, config)
+print(f" Report saved to: {report_path}")
 
     print("\n" + "=" * 60)
     print(f"Done — {len(new_items)} new carrier items collected.")
