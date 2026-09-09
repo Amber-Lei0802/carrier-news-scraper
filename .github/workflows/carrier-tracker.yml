@@ -1,0 +1,45 @@
+name: US Carrier Tracker
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # Daily at 12:00 UTC = 08:00 ET / 20:00 Beijing
+  workflow_dispatch:       # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write          # Required to commit data files back to the repo
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run carrier tracker
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python -m scraper.main
+        working-directory: ./
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Add new data files
+          git add data/raw/ reports/ data/seen_urls.json || true
+
+          # Check if there's anything to commit
+          git diff --cached --quiet || git commit -m "daily: carrier briefing $(date -u +%Y-%m-%d)"
+          git push
