@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-12",
+  "source_count": 1,
+  "item_count": 1,
+  "items": [
+    {
+      "name": "USNI News Western Pacific Pulse: Sept. 11, 2026",
+      "url": "https://news.usni.org/2026/09/11/usni-news-western-pacific-pulse-sept-11-2026",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-09-11",
+      "date_found": "2026-09-12",
+      "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In the South China Sea Aircraft carrier USS Abraham Lincoln (CVN-72), cruiser USS Robert Smalls (CG-62), destroyer USS Frank E. Petersen Jr. (DDG-121) are operating in the South China Sea following their departure from Thailand on Sunday after completing a port visit. At Lumut Naval Base, Malaysia Indian Navy destroyer INS Mysore (D60) arrived Wednesday at Royal Malaysian Navy Lumut Naval Base to join RMN corvette KD Lekir (FSG26) and training ship KD Gagah Samudera (271) for exercise Samudra Laksamana 4/26.",
+      "full_text": "",
+      "tags": [
+        "Aviation",
+        "China",
+        "Foreign Forces",
+        "News & Analysis",
+        "Russia",
+        "Submarine Forces",
+        "Surface Forces",
+        "U.S. Air Force",
+        "U.S. Army",
+        "U.S. Coast Guard",
+        "U.S. Marine Corps",
+        "U.S. Navy",
+        "U.S. Space Force"
+      ],
+      "_carrier_keywords": [
+        "aircraft carrier",
+        "carrier",
+        "CVN",
+        "USS Abraham Lincoln"
+      ],
+      "_match_count": 4
+    }
+  ]
+}
