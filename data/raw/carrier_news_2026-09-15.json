@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-15",
+  "source_count": 1,
+  "item_count": 1,
+  "items": [
+    {
+      "name": "USNI News Fleet and Marine Tracker: Sept. 14, 2026",
+      "url": "https://news.usni.org/2026/09/14/usni-news-fleet-and-marine-tracker-sept-14-2026",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-09-14",
+      "date_found": "2026-09-15",
+      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Sept. 14, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 290 (USS 232, USNS 58) 103 (USS 73, USNS 30) (39 FDNF, 64 Rotational) 79 (60 Deployed, 19 Local) In Japan USS Tripoli (LHA-7) is in port in Sasebo, Japan. In the South China Sea The Abraham Lincoln Carrier Strike Group is in the South",
+      "full_text": "",
+      "tags": [
+        "Aviation",
+        "Documents",
+        "Fleet Tracker",
+        "News & Analysis",
+        "U.S. Marine Corps",
+        "U.S. Navy",
+        "USS Abraham Lincoln (CVN-72)",
+        "USS George H.W. Bush (CVN-77)",
+        "USS George Washington (CVN-73)",
+        "USS Theodore Roosevelt (CVN-71)"
+      ],
+      "_carrier_keywords": [
+        "carrier",
+        "carrier strike group",
+        "CSG"
+      ],
+      "_match_count": 3
+    }
+  ]
+}
