@@ -1,0 +1,57 @@
+{
+  "date": "2026-09-24",
+  "source_count": 2,
+  "item_count": 2,
+  "items": [
+    {
+      "name": "3 Years of Middle East Combat Altering How Navy Supplies, Maintains Fleet, Leaders Say",
+      "url": "https://news.usni.org/2026/09/23/3-years-of-middle-east-combat-altering-how-navy-supplies-maintains-fleet-leaders-say",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-09-23",
+      "date_found": "2026-09-24",
+      "summary": "VIRGINIA BEACH, Va. — The ongoing U.S. conflict with Iran is morphing how the Navy fixes and supplies ships operating thousands of miles from logistics hubs as extended time at sea and the prospect of an extended naval commitment in the Middle East are creating a maintenance wave back home, service officials said this week. As of Monday, there were more than a dozen guided-missile destroyers supporting carriers USS George H.W. Bush (CVN-77) and USS George Washington (CVN-73) and the Boxer Amphibious Ready Group in the Arabian Sea and Indian Ocean, according to Monday’s USNI News Fleet and Marine Tracker.",
+      "full_text": "",
+      "tags": [
+        "Foreign Forces",
+        "News & Analysis",
+        "Surface Forces",
+        "U.S. Navy",
+        "ASNE",
+        "FMMS",
+        "NAVSEA",
+        "U.S. Fleet Forces Command",
+        "USS Abraham Lincoln (CVN-72)"
+      ],
+      "_carrier_keywords": [
+        "carrier",
+        "CVN",
+        "USS George Washington",
+        "USS George H.W. Bush"
+      ],
+      "_match_count": 4
+    },
+    {
+      "name": "Steam catapults? US Navy appears to be sticking with electromagnetics on carriers",
+      "url": "https://www.navytimes.com/industry/techwatch/2026/09/23/steam-catapults-us-navy-appears-to-be-sticking-with-electromagnetics-on-carriers/",
+      "source": "Navy Times",
+      "source_domain": "navytimes.com",
+      "date_published": "2026-09-23",
+      "date_found": "2026-09-24",
+      "summary": "Despite an August order for the U.S. Navy to return to steam catapults on its newest carriers, the service appears to be sticking with electromagnetics.",
+      "full_text": "Despite U.S. President Donald Trump’snostalgiafor old-fashioned steam catapults, the U.S. Navy appears to be sticking with electromagnetics for its newest class of aircraft carriers.\n\nThe Navy recently awarded contracts for theElectromagnetic Aircraft Launch System, or EMALS, which uses electrically generated magnetic fields to launch aircraft from Ford-class carriers.\n\nKato Engineeringannounced a $49.3 million contract this week to support the energy storage subsystem of EMALS. The Navy also published a sources sought notice on Wednesday, seeking vendors to supply components such as EMALSrecirculation pumps.\n\nThe Navy maintains that electromagnetic catapults provide smoother acceleration, can be adjusted to launch various types of aircraft such as drones, can be reset for faster launches and require less maintenance and personnel. China, meanwhile, is equipping its newFujian-classcarriers with electromagnetic catapults.\n\nTrump resurrected the steam catapult versus EMALS conversation in August, when he ordered the Navy to replace EMALS with the older system on the USS Doris Miller, the next Ford-class carrier under construction.\n\nIn an Augustmemo, Trump pointed at a Navy that has suffered from “a series of shipbuilding setbacks stemming from overly complex designs and iterative design change procedures, which have resulted in cost growth, delays, and cancellations.”\n\nThe president suggested mandating that the Navy submit “a plan on the required measures to replace the Electromagnetic Aircraft Launch System and Advanced Weapons Elevators with steam and hydraulic systems for the construction of CVN-81 [USS Doris Miller], including timelines and resourcing requirements.”\n\nThe White House’s order baffled naval experts. The Navy has not ordered a steam catapult in 20 years, with the last order placed for the USS George H. W. Bush, commissioned in 2009 as the final Nimitz-class carrier.\n\nFinding a manufacturer for steam catapults, and then redesigning Ford-class carriers to accept them, would likely require sweeping manufacturing overhauls at considerable expense, critics of the order said.\n\nDespite their planned phasing out, steam catapults are a proven technology. They were developed byBritainin the 1950s to replace the hydraulic catapults of World War II-era carriers and were later copied by the U.S.\n\n“The decision was made in April 1952 that the steam catapult would probably be the most satisfactory type for a service catapult,” noted a 1954articlein the U.S. Naval Institute magazineProceedings. “Arrangements were made for the manufac­turing rights to the British catapult. British drawings were obtained and redrawn to U. S. standards and modified to fit U.S. naval requirements.”\n\nManufactured for 21st century carriers, EMALS “is designed to expand the operational capability of Ford-class carriers, providing the Navy with capability for launching all current and future carrier air wing platforms – lightweight unmanned to heavy strike fighters.\n\nThe rapid evolution of unmanned aircraft, which may soon become the backbone of carrier air wings, will likely require a more sophisticated launch system. Recent contracts suggest the U.S. Navy is planning accordingly.\n\nMichael Peck is a correspondent for Defense News and a columnist for the Center for European Policy Analysis. He holds an M.A. in political science from Rutgers University. Find him at theuncommondefense.com. His email is mikedefense1@gmail.com.",
+      "tags": [
+        "/ MilTech"
+      ],
+      "_carrier_keywords": [
+        "aircraft carrier",
+        "carrier",
+        "CVN",
+        "Ford-class",
+        "Nimitz-class",
+        "USS Doris Miller"
+      ],
+      "_match_count": 6
+    }
+  ]
+}
