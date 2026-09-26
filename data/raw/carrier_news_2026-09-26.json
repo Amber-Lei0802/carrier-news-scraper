@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-26",
+  "source_count": 2,
+  "item_count": 2,
+  "items": [
+    {
+      "name": "USNI News Western Pacific Pulse: Sept. 25, 2026",
+      "url": "https://news.usni.org/2026/09/25/usni-news-western-pacific-pulse-sept-25-2026",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-09-25",
+      "date_found": "2026-09-26",
+      "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In U.S. 7th Fleet Area of Operations The Abraham Lincoln Carrier Strike Group (CSG) is underway following a two-day stop in Guam last weekend. The strike group includes aircraft carrier USS Abraham Lincoln (CVN-72) with embarked Carrier Air Wing (CVW) and destroyer USS Frank E. Petersen Jr. (DDG-121).  As of Friday, Abraham Lincoln has been deployed for 308 days. In the Philippine Sea Destroyer USS Carl M. Levin (DDG-120) is conducting routine operations in the Philippine Sea. Carl M. Levin",
+      "full_text": "",
+      "tags": [
+        "Aviation",
+        "China",
+        "News & Analysis",
+        "Russia",
+        "Submarine Forces",
+        "Surface Forces",
+        "U.S. Air Force",
+        "U.S. Army",
+        "U.S. Coast Guard",
+        "U.S. Marine Corps",
+        "U.S. Navy",
+        "U.S. Space Force",
+        "Abraham Lincoln Carrier Strike Group",
+        "aviation",
+        "US Marine Corps",
+        "us navy",
+        "USS Canberra (LCS-30)"
+      ],
+      "_carrier_keywords": [
+        "aircraft carrier",
+        "carrier",
+        "CVN",
+        "carrier strike group",
+        "CSG",
+        "USS Abraham Lincoln"
+      ],
+      "_match_count": 6
+    },
+    {
+      "name": "‘Risking billions’: US Navy’s massive shipyard overhaul lacks oversight, watchdog says",
+      "url": "https://www.navytimes.com/news/your-military/2026/09/25/risking-billions-us-navys-massive-shipyard-overhaul-lacks-oversight-watchdog-says/",
+      "source": "Navy Times",
+      "source_domain": "navytimes.com",
+      "date_published": "2026-09-25",
+      "date_found": "2026-09-26",
+      "summary": "The Navy's generational effort to improve poor conditions and outdated infrastructure at U.S. shipyards lacks oversight and parameters, a watchdog found.",
+      "full_text": "The U.S. Navy’s Shipyard Infrastructure Optimization Program will exceed $200 billion and take more than 50 years to execute, but the program is not regularly evaluated for its costs, risks and performance, according to a new Government Accountability Officereport.\n\nThe lack of oversight could lead to Congress making consequential decisions “based on incomplete information, thus risking billions in taxpayer dollars,” the GAO wrote in its report, published Friday.\n\nThe findings come as the Navy undertakes a generational effort to improve poor conditions and outdated infrastructure at the shipyards in Norfolk, Virginia; Pearl Harbor, Hawaii; Portsmouth Naval Shipyard in Kittery, Maine; and Puget Sound, Washington. The four public shipyards are critical to maintaining the Navy’s nuclear-powered aircraft carriers and submarines.\n\nTheShipyard Infrastructure Optimization Program, or SIOP, launched in 2018 to address poor shipyard conditions and capability gaps affecting fleet readiness. The effort includes new dry docks, extensive construction and dozens of other major infrastructure projects and upgrades.\n\nGAO investigators found the Navy adopted requirements for the program that don’t include plans for regular reviews through future decades. Without appropriate evaluations, the Navy cannot adjust SIOP to meet changing needs, the GAO said.\n\n“Without building such reviews into key future decision points, the Navy is limiting its ability to ensure that capabilities in SIOP’s plans today continue to be aligned or adjusted to support future fleet warfighting needs,” the report states.\n\nThe program has also taken years longer to develop and grown substantially more expensive than originally anticipated, according to GAO.\n\nEnvironmental issues, among other challenges, have led to additional projects and more extensive work affecting project plans and costs at the shipyards.\n\nThe Navy provides Congress with reports and briefings about the program, but there is no requirement for it to provide consolidated, standardized information on full program costs and risks. Major defense acquisitions, by contrast, are required to provide annual program status reports with detailed metrics, including total costs to date, projected timelines and risks.\n\nThe GAO recommended that Congress consider requiring the Navy to submit annual, consolidated and standardized SIOP status reports for the duration of the program. Those reports should include total expenditures to date; original and current program schedule, performance and cost estimates; associated risk analysis; and similar detailed and summary information for individual SIOP projects.\n\nThe federal watchdog agency also made three recommendations to the Navy: Include periodic reviews of SIOP’s validated requirements, objectives and performance parameters in its oversight framework; establish specific steps and timing for annual reviews of the program’s mission readiness, affordability and sustainability; and identify and document key SIOP project-management organizations and their roles, responsibilities and collaborative relationships.\n\nGAO found that the Navy had not fully documented those organizations’ roles and responsibilities.\n\nThe Navy agreed with all three recommendations and outlined planned steps to implement them, according to GAO.\n\nNatalie Oliverio is an independent journalist and Navy veteran who covers military and veterans’ issues. Drawing on her experience as a talent executive and mentor, she writes about the policies, people and programs shaping the military community.",
+      "tags": [
+        "/ Your Navy"
+      ],
+      "_carrier_keywords": [
+        "aircraft carrier",
+        "carrier"
+      ],
+      "_match_count": 2
+    }
+  ]
+}
