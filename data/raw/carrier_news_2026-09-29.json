@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-29",
+  "source_count": 1,
+  "item_count": 3,
+  "items": [
+    {
+      "name": "Four Injured After Landing Mishap Aboard USS Dwight D. Eisenhower, Crew Safely Recovered",
+      "url": "https://news.usni.org/2026/09/28/four-injured-after-landing-mishap-aboard-uss-dwight-d-eisenhower-crew-safely-recovered",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-09-29",
+      "date_found": "2026-09-29",
+      "summary": "This post will be updated as new information becomes available. Four personnel were injured in a landing mishap aboard USS Dwight D. Eisenhower (CVN-69) on Monday, USNI News has learned. The crew of the unspecified two-seat aircraft assigned to Carrier Air Wing 3 was safely recovered after ejecting from the aircraft, the Navy said in a statement provided to USNI News. “At approximately 6:18 p.m. EDT on Sept. 28, a mishap occurred during aircraft recovery operations aboard the Nimitz-class aircraft carrier USS Dwight D. Eisenhower (CVN 69) off the coast of Virginia,” reads the statement. “Both aviators were safely returned",
+      "full_text": "",
+      "tags": [
+        "Aviation",
+        "News & Analysis",
+        "Surface Forces",
+        "U.S. Navy",
+        "Carrier Air Wing 3",
+        "USS Dwight D.Eisenhower (CVN-69)"
+      ],
+      "_carrier_keywords": [
+        "aircraft carrier",
+        "carrier",
+        "CVN",
+        "Nimitz-class",
+        "USS Dwight D. Eisenhower"
+      ],
+      "_match_count": 5
+    },
+    {
+      "name": "USNI News Fleet and Marine Tracker: Sept. 28, 2026",
+      "url": "https://news.usni.org/2026/09/28/usni-news-fleet-and-marine-tracker-sept-28-2026",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-09-28",
+      "date_found": "2026-09-29",
+      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Sept. 28, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 290 (USS 232, USNS 58) 105 (USS 75, USNS 30) (47 FDNF, 58 Rotational) 75 (61 Deployed, 14 Local) In Japan USS Tripoli (LHA-7) is in port in Sasebo, Japan. In the Pacific Ocean The Abraham Lincoln Carrier Strike Group departed last Sunday from Apra",
+      "full_text": "",
+      "tags": [
+        "Documents",
+        "Fleet Tracker",
+        "News & Analysis",
+        "Surface Forces",
+        "U.S. Marine Corps",
+        "U.S. Navy",
+        "USS Abraham Lincoln (CVN-72)",
+        "USS Boxer (LHD-4)",
+        "USS George H.W. Bush (CVN-77)",
+        "USS George Washington (CVN-73)",
+        "USS Theodore Roosevelt (CVN-71)"
+      ],
+      "_carrier_keywords": [
+        "carrier",
+        "carrier strike group",
+        "CSG"
+      ],
+      "_match_count": 3
+    },
+    {
+      "name": "USS Theodore Roosevelt Deploys From San Diego, USS Abraham Lincoln Near Hawaii",
+      "url": "https://news.usni.org/2026/09/28/uss-theodore-roosevelt-deploys-from-san-diego-uss-abraham-lincoln-near-hawaii",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-09-28",
+      "date_found": "2026-09-29",
+      "summary": "Carrier USS Theodore Roosevelt (CVN-71) quietly departed Sunday from San Diego to sail across the Pacific for what is expected to be an extended Middle East deployment, USNI News has learned. The carrier, the flagship of Carrier Strike Group 9, departed without the traditional pomp and circumstance – no sailors were spotted manning the rails, according to ship spotter photos. The carrier will embark with Carrier Air Wing 11. A defense official confirmed Theodore Roosevelt had begun its planned deployment. The Theodore Roosevelt Carrier Strike Group is expected to move to U.S. Central Command to relieve the Japan-based USS George",
+      "full_text": "",
+      "tags": [
+        "News & Analysis",
+        "Surface Forces",
+        "U.S. Navy",
+        "Iran",
+        "us navy",
+        "USS Theodore Roosevelt (CVN-71)"
+      ],
+      "_carrier_keywords": [
+        "carrier",
+        "CVN",
+        "carrier strike group",
+        "USS Theodore Roosevelt",
+        "USS Abraham Lincoln"
+      ],
+      "_match_count": 5
+    }
+  ]
+}
