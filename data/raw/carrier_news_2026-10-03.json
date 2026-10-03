@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-03",
+  "source_count": 1,
+  "item_count": 1,
+  "items": [
+    {
+      "name": "Carrier USS Dwight D. Eisenhower to Return to Port After Growler Mishap",
+      "url": "https://news.usni.org/2026/10/03/carrier-uss-dwight-d-eisenhower-to-return-to-port-after-growler-mishap",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-10-03",
+      "date_found": "2026-10-03",
+      "summary": "Aircraft carrier USS Dwight D. Eisenhower (CVN-69) is returning to Naval Station Norfolk, Va., after a Sept. 28 incident that injured four sailors and resulted in the loss of a EA-18G Growler, USNI News has learned. The return to port will, “allow for a comprehensive assessment of the ship’s aircraft launch and recovery equipment following the Sept. 28 aviation mishap,” reads an early Saturday morning statement from Naval Air Force Atlantic. “The decision reflects the Navy’s deliberate approach to flight safety and readiness. While the cause of the mishap remains under investigation, Navy technical experts will conduct a thorough assessment",
+      "full_text": "",
+      "tags": [
+        "Aviation",
+        "News & Analysis",
+        "U.S. Navy",
+        "USS Dwight D. Eisenhower"
+      ],
+      "_carrier_keywords": [
+        "aircraft carrier",
+        "carrier",
+        "CVN",
+        "USS Dwight D. Eisenhower"
+      ],
+      "_match_count": 4
+    }
+  ]
+}
