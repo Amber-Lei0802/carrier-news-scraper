@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-15",
+  "source_count": 1,
+  "item_count": 2,
+  "items": [
+    {
+      "name": "VIDEO: F-35C Lands on New Navy Aircraft Carrier Class for First Time",
+      "url": "https://news.usni.org/2026/10/14/video-f-35c-lands-on-new-navy-aircraft-carrier-class-for-first-time",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-10-14",
+      "date_found": "2026-10-15",
+      "summary": "A fifth-generation fighter landed on the Navy’s new class of aircraft carriers for the first time on Tuesday. An F-35C Joint Strike Fighter Lightning II trapped on the future USS John F. Kennedy (CVN-79), according to U.S. Navy video and imagery. The “Salty Dogs” of Air Test and Evaluation Squadron (VX) 23 also launched an F-35C off the carrier for the first time. The benchmark comes after the Navy took partial acceptance of the carrier last month, USNI News reported. JFK, which has faced years of delays, will formally deliver to the Navy in March. JFK’s delays are due in",
+      "full_text": "",
+      "tags": [
+        "Aviation",
+        "Industry",
+        "News & Analysis",
+        "Surface Forces",
+        "U.S. Navy",
+        "aviation",
+        "F-35C",
+        "JFK",
+        "us navy",
+        "USS Gerald R. Ford (CVN-78)",
+        "USS John F. Kennedy (CVN-79)"
+      ],
+      "_carrier_keywords": [
+        "aircraft carrier",
+        "carrier",
+        "CVN",
+        "USS John F. Kennedy"
+      ],
+      "_match_count": 4
+    },
+    {
+      "name": "UPDATED: Chinese Carrier Strike Group Heads to South China Sea After Philippine Sea Drills",
+      "url": "https://news.usni.org/2026/10/14/chinese-carrier-strike-group-drills-in-the-philippine-sea",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-10-14",
+      "date_found": "2026-10-15",
+      "summary": "The People’s Liberation Army Navy Liaoning Carrier Strike Group conducted drills in the Philippine Sea on Wednesday before sailing towards the South China Sea on Thursday, according to Japan&#8217;s Joint Staff Office. Led by aircraft carrier CNS Liaoning (16), the strike group was spotted 155 miles south of Japan’s Ishigaki Island launching and recovering aircraft. Liaoning conducted a total of 10 take-offs and landings of its embarked fighter aircraft and helicopters on Wednesday, the JSO said on Thursday. The strike group includes Liaoning, cruisers CNS Anshan (103) and CNS Wuxi (104) and destroyer CNS Huainen (123). On Thursday, the strike",
+      "full_text": "",
+      "tags": [
+        "China",
+        "News & Analysis",
+        "Surface Forces",
+        "U.S. Marine Corps",
+        "U.S. Navy",
+        "CNS Liaoning (16)",
+        "Philippine Sea",
+        "PLAN",
+        "US Marine Corps",
+        "us navy"
+      ],
+      "_carrier_keywords": [
+        "aircraft carrier",
+        "carrier",
+        "carrier strike group"
+      ],
+      "_match_count": 3
+    }
+  ]
+}
