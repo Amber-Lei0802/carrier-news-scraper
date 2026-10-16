@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-16",
+  "source_count": 1,
+  "item_count": 1,
+  "items": [
+    {
+      "name": "Carrier USS Theodore Roosevelt Arrives in Japan Ahead of Keen Sword Exercise",
+      "url": "https://news.usni.org/2026/10/16/carrier-uss-theodore-roosevelt-arrives-in-japan-ahead-of-keen-sword-exercise",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-10-16",
+      "date_found": "2026-10-16",
+      "summary": "USS Theodore Roosevelt (CVN-71), cruiser USS Chosin (CG 65) and destroyer USS Decatur (DDG 73) docked at Commander Fleet Activities Yokosuka (CFAY) at 9.20 a.m. local time on Friday ahead of its participation in exercise Keen Sword 27. Theodore Roosevelt is the first non-Forward Deployed Naval Forces-Japan (FDNF-J) carrier in four years to dock in CFAY since USS Abraham Lincoln (CVN-72) in 2022. The Yokosuka City Council also noted that this is the first time Roosevelt has visited the port. The CSG is pulling in to conduct routine maintenance and resupply and confirmed that the strike group will participate in",
+      "full_text": "",
+      "tags": [
+        "Aviation",
+        "News & Analysis",
+        "Surface Forces",
+        "U.S. Marine Corps",
+        "U.S. Navy",
+        "Keen Sword",
+        "USS Theodore Roosevelt (CVN-71)",
+        "Yokosuka"
+      ],
+      "_carrier_keywords": [
+        "carrier",
+        "CVN",
+        "CSG",
+        "USS Theodore Roosevelt",
+        "USS Abraham Lincoln"
+      ],
+      "_match_count": 5
+    }
+  ]
+}
