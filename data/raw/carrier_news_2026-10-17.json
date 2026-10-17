@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-17",
+  "source_count": 1,
+  "item_count": 1,
+  "items": [
+    {
+      "name": "USNI News Western Pacific Pulse: Oct. 16, 2026",
+      "url": "https://news.usni.org/2026/10/16/usni-news-western-pacific-pulse-oct-16-2026",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-10-16",
+      "date_found": "2026-10-17",
+      "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In Yokosuka, Japan The Theodore Roosevelt Carrier Strike Group docked Friday at Commander Fleet Activities Yokosuka. This marks the first time in four years that a non-forward deployed carrier has pulled into CFAY.  The strike group includes aircraft carrier USS Theodore Roosevelt (CVN-71), cruiser USS Chosin (CG 65) and destroyer USS Decatur (DDG 73). The Theodore Roosevelt CSG also deployed with Medium Unmanned Surface Vessel (MUSV) Seahawk. The strike group will participate in the U.S.-Japan bilateral exercise Keen Sword 27, which",
+      "full_text": "",
+      "tags": [
+        "Aviation",
+        "China",
+        "Foreign Forces",
+        "News & Analysis",
+        "Russia",
+        "Submarine Forces",
+        "Surface Forces",
+        "U.S. Air Force",
+        "U.S. Army",
+        "U.S. Coast Guard",
+        "U.S. Marine Corps",
+        "U.S. Navy",
+        "U.S. Space Force",
+        "Western Pacific Pulse"
+      ],
+      "_carrier_keywords": [
+        "aircraft carrier",
+        "carrier",
+        "CVN",
+        "carrier strike group",
+        "CSG",
+        "USS Theodore Roosevelt"
+      ],
+      "_match_count": 6
+    }
+  ]
+}
