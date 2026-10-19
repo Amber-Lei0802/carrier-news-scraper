@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-19",
+  "source_count": 1,
+  "item_count": 1,
+  "items": [
+    {
+      "name": "USNI News Fleet and Marine Tracker: Oct. 19, 2026",
+      "url": "https://news.usni.org/2026/10/19/usni-news-fleet-and-marine-tracker-oct-19-2026",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-10-19",
+      "date_found": "2026-10-19",
+      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Oct. 19, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. In Japan USS Tripoli (LHA-7) is in port in Sasebo, Japan. Aircraft carrier USS Theodore Roosevelt (CVN-71) arrived Friday and departed Monday from Yokosuka, Japan, according to ship spotters. Carrier Strike Group 9 is composed of Theodore Roosevelt, Carrier Air Wing (CVW) 11, Destroyer Squadron 23, Information Warfare Squadron 9, and Ticonderoga-class guided-missile",
+      "full_text": "",
+      "tags": [
+        "Aviation",
+        "Congress",
+        "Documents",
+        "Fleet Tracker",
+        "Surface Forces",
+        "U.S. Marine Corps",
+        "U.S. Navy",
+        "USS Boxer (LHD-4)",
+        "USS George H.W. Bush (CVN-77)",
+        "USS George Washington (CVN-73)",
+        "USS Ronald Reagan (CVN-76)",
+        "USS Theodore Roosevelt (CVN-71)"
+      ],
+      "_carrier_keywords": [
+        "aircraft carrier",
+        "carrier",
+        "CVN",
+        "carrier strike group",
+        "CSG"
+      ],
+      "_match_count": 5
+    }
+  ]
+}
