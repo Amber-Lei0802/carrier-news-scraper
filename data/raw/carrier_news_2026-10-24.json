@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-24",
+  "source_count": 1,
+  "item_count": 1,
+  "items": [
+    {
+      "name": "USNI News Western Pacific Pulse: Oct. 23, 2026",
+      "url": "https://news.usni.org/2026/10/23/usni-news-western-pacific-pulse-oct-23-2026",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-10-23",
+      "date_found": "2026-10-24",
+      "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In the Philippine Sea The Theodore Roosevelt Carrier Strike Group was in the Philippine Sea as of Wednesday as part of U.S.-Japan Exercise Keen Sword 27.  Aircraft carrier USS Theodore Roosevelt (CVN-71) with embarked Carrier Air Wing (CVW) 11 and cruiser USS Chosin (CG-65) is leading Japan Maritime Self-Defense Force helicopter destroyer JS Ise (DDH-182),destroyers JS Kongo (DDG-173) and JS Asahi (DD-119), Royal Australian Navy frigate HMAS Stuart (FFH153), Royal Canadian frigate HMCS Regina (FFH334) and a French frigate in the",
+      "full_text": "",
+      "tags": [
+        "Aviation",
+        "China",
+        "Russia",
+        "Submarine Forces",
+        "Surface Forces",
+        "U.S. Air Force",
+        "U.S. Army",
+        "U.S. Coast Guard",
+        "U.S. Marine Corps",
+        "U.S. Navy",
+        "U.S. Space Force",
+        "Western Pacific Pulse",
+        "aviation",
+        "Japan",
+        "Liaoning Carrier Strike Group",
+        "Theodore Roosevelt Carrier Strike Group",
+        "US Marine Corps",
+        "us navy"
+      ],
+      "_carrier_keywords": [
+        "aircraft carrier",
+        "carrier",
+        "CVN",
+        "carrier strike group",
+        "USS Theodore Roosevelt"
+      ],
+      "_match_count": 5
+    }
+  ]
+}
