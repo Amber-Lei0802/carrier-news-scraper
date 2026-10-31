@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-31",
+  "source_count": 1,
+  "item_count": 1,
+  "items": [
+    {
+      "name": "USNI News Western Pacific Pulse: Oct. 30, 2026",
+      "url": "https://news.usni.org/2026/10/30/usni-news-western-pacific-pulse-oct-30-2026",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-10-30",
+      "date_found": "2026-10-31",
+      "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  Around Japan Aircraft carrier USS Theodore Roosevelt (CVN-71) conducted a passenger exchange on Monday with Royal Canadian Navy frigate HMCS Regina (FFH 334) during exercise Keen Sword 27 (KS27). The U.S.-Japan bilateral Exercise Keen Sword 27 closed on Thursday, having begun on Oct. 19 with the majority of activities taking place in Japan’s southwest region.  The Theodore Roosevelt Carrier Strike Group consists of aircraft carrier Theodore Roosevelt with embarked carrier air wing (CVW) 11, cruiser USS Chosin (CG-65) and destroyers",
+      "full_text": "",
+      "tags": [
+        "Aviation",
+        "China",
+        "News & Analysis",
+        "Russia",
+        "Submarine Forces",
+        "U.S. Coast Guard",
+        "U.S. Marine Corps",
+        "U.S. Navy",
+        "Western Pacific Pulse",
+        "aviation",
+        "Liaoning Carrier Strike Group",
+        "North Korea",
+        "Surface Forces",
+        "Theodore Roosevelt Carrier Strike Group",
+        "USS Theodore Roosevelt (CVN-71)"
+      ],
+      "_carrier_keywords": [
+        "aircraft carrier",
+        "carrier",
+        "CVN",
+        "carrier strike group",
+        "USS Theodore Roosevelt"
+      ],
+      "_match_count": 5
+    }
+  ]
+}
