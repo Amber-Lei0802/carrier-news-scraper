@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-02",
+  "source_count": 1,
+  "item_count": 1,
+  "items": [
+    {
+      "name": "Enterprise Hulk Towed from Newport News Shipbuilding",
+      "url": "https://news.usni.org/2026/11/02/enterprise-hulk-towed-from-newport-news-shipbuilding",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-11-02",
+      "date_found": "2026-11-02",
+      "summary": "The hulk of former nuclear aircraft carrier USS Enterprise (CVN-65) was towed from a pier at Newport News Shipbuilding on Monday, almost 15 years after its final deployment, USNI News has learned. “Ex-Enterprise began its final transit this morning, departing Newport News Shipbuilding for Mobile, Alabama, where the ship will be dismantled,” reads a Monday statement from PAE Maritime. The remnant “Big E” is now in route to Mobile, Ala., after a court battle between environmental disposal contractor NorthStar and HII over which company would oversee the final disposal. Last month, HII dropped a legal challenge on the Navy’s decision",
+      "full_text": "",
+      "tags": [
+        "News & Analysis",
+        "Surface Forces",
+        "U.S. Marine Corps",
+        "U.S. Navy",
+        "HII",
+        "us navy",
+        "USS Enterprise (CVN-65)"
+      ],
+      "_carrier_keywords": [
+        "aircraft carrier",
+        "carrier",
+        "CVN",
+        "USS Enterprise"
+      ],
+      "_match_count": 4
+    }
+  ]
+}
