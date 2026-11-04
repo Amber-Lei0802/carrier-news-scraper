@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-04",
+  "source_count": 1,
+  "item_count": 1,
+  "items": [
+    {
+      "name": "Royal Navy Carriers Operate in the High North, Mediterranean",
+      "url": "https://news.usni.org/2026/11/04/royal-navy-carriers-operate-in-the-high-north-mediterranean",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-11-04",
+      "date_found": "2026-11-04",
+      "summary": "Royal Navy aircraft carrier HMS Prince of Wales (R09) is conducting operations across the High North as HMS Queen Elizabeth (RO8) trains in the Mediterranean. Prince of Wales recently participated in a U.S.-led nuclear command and control exercise near Norway while aircraft carrier Queen Elizabeth carried out interoperability exercises with Royal Air Force Chinook heavy lift helicopters off Gibraltar. The Royal Navy alternates the two carriers with one acting as the high readiness carrier, conducting a deployment and being immediately available for tasking, while the other carrier undergoes a period of maintenance and crew rest before working up to taking",
+      "full_text": "",
+      "tags": [
+        "Aviation",
+        "Foreign Forces",
+        "News & Analysis",
+        "Surface Forces",
+        "aviation",
+        "High North",
+        "HMS Prince of Wales (R09)",
+        "HMS Queen Elizabeth",
+        "Royal Navy",
+        "Russia"
+      ],
+      "_carrier_keywords": [
+        "aircraft carrier",
+        "carrier"
+      ],
+      "_match_count": 2
+    }
+  ]
+}
