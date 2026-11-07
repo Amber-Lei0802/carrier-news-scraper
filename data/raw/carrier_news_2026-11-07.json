@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-07",
+  "source_count": 1,
+  "item_count": 1,
+  "items": [
+    {
+      "name": "The Future of French Fleet Close-in Defense",
+      "url": "https://news.usni.org/2026/11/06/the-future-of-french-fleet-close-in-defense",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-11-06",
+      "date_found": "2026-11-07",
+      "summary": "TOULON, France — Behind the bridge wings of one of Europe’s most modern combat supply ships, a team of French sailors donned gloves and flash hoods. The group were preparing for a close-in defense drill aboard Bâtiment ravitailleur de forces-class (BRF) resupply ship FS Jacques Stosskopf (A726) last month. At its Toulon naval base berthing, the modern logistics vessel was flanked by the anti-aircraft and anti-submarine escorts of France’s sole carrier strike group. Its size is considerable compared to previous generations of French combat support ships, one of which was rusting away at a pier to Jacques Stosskopf’s portside. Jacques",
+      "full_text": "",
+      "tags": [
+        "Foreign Forces",
+        "Industry",
+        "News & Analysis",
+        "Surface Forces",
+        "French Navy",
+        "FS Jacques Stosskopf (A726)"
+      ],
+      "_carrier_keywords": [
+        "carrier",
+        "carrier strike group"
+      ],
+      "_match_count": 2
+    }
+  ]
+}
