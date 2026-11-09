@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-09",
+  "source_count": 1,
+  "item_count": 1,
+  "items": [
+    {
+      "name": "USNI News Fleet and Marine Tracker: Nov. 9, 2026",
+      "url": "https://news.usni.org/2026/11/09/usni-news-fleet-and-marine-tracker-nov-9-2026",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-11-09",
+      "date_found": "2026-11-09",
+      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 9, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.  In Japan USS Tripoli (LHA-7) is in port in Sasebo, Japan. In the Sea of Japan Amphibious assault ship USS Makin Island (LHD-8) departed Saturday from Yokosuka, Japan, according to ship spotters. The Makin Island Amphibious Ready Group, which includes Makin Island, USS Anchorage (LPD-23), USS John P. Murtha (LPD-26) and the embarked 13th Marine Expeditionary Unit,",
+      "full_text": "",
+      "tags": [
+        "Aviation",
+        "Documents",
+        "Fleet Tracker",
+        "News & Analysis",
+        "Surface Forces",
+        "U.S. Marine Corps",
+        "U.S. Navy",
+        "USS Boxer (LHD-4)",
+        "USS George H.W. Bush (CVN-77)",
+        "USS George Washington (CVN-73)",
+        "USS Makin Island (LHD-8)",
+        "USS Nimitz (CVN-68)",
+        "USS Theodore Roosevelt (CVN-71)",
+        "USS Tripoli (LHA-7)"
+      ],
+      "_carrier_keywords": [
+        "carrier",
+        "carrier strike group",
+        "CSG"
+      ],
+      "_match_count": 3
+    }
+  ]
+}
