@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-16",
+  "source_count": 2,
+  "item_count": 2,
+  "items": [
+    {
+      "name": "USNI News Fleet and Marine Tracker: Nov. 16, 2026",
+      "url": "https://news.usni.org/2026/11/16/usni-news-fleet-and-marine-tracker-nov-16-2026",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-11-16",
+      "date_found": "2026-11-16",
+      "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 16, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 286 (USS 228, USNS 58) 102 (USS 71, USNS 31) (46 FDNF, 56 Rotational) 87 (64 Deployed, 23 Local) In Japan USS Tripoli (LHA-7) is in port in Sasebo, Japan. In the Philippine Sea Amphibious assault ship USS Makin Island (LHD-8) is underway conducting routine operations in",
+      "full_text": "",
+      "tags": [
+        "Fleet Tracker",
+        "News & Analysis",
+        "Surface Forces",
+        "USS Boxer (LHD-4)",
+        "USS George H.W. Bush (CVN-77)",
+        "USS George Washington (CVN-73)",
+        "USS Makin Island (LHD-8)",
+        "USS Theodore Roosevelt (CVN-71)",
+        "USS Tripoli (LHA-7)"
+      ],
+      "_carrier_keywords": [
+        "carrier",
+        "carrier strike group",
+        "CSG"
+      ],
+      "_match_count": 3
+    },
+    {
+      "name": "Destroyers USS Spruance, USS Michael Murphy return from extended combat deployments",
+      "url": "https://www.navytimes.com/news/2026/11/16/destroyers-uss-spruance-uss-michael-murphy-return-from-extended-combat-deployments/",
+      "source": "Navy Times",
+      "source_domain": "navytimes.com",
+      "date_published": "2026-11-16",
+      "date_found": "2026-11-16",
+      "summary": "The Arleigh Burke-class guided-missile destroyers USS Spruance and USS Michael Murphy returned to their homeports after lengthy deployments during the Iran war.",
+      "full_text": "Two Arleigh Burke-class guided-missile destroyers that played an integral role Middle East military operations during the Iran war returned to their homeports on Friday.\n\nTheUSS Michael MurphyandUSS Spruancedocked at Joint Base Pearl Harbor-Hickam, Hawaii, and Naval Base San Diego, California, respectively. The Murphy deployed for 11 months while the Spruance deployed for 12.\n\n“Leading the ship and crew has been the honor of a lifetime,” said Cmdr. Leigh R. Tate, commanding officer of Spruance. “Spruance sailors made a difference.”\n\nCmdr. David Nicolas, commanding officer of Michael Murphy, praised his crew for “defeating incoming air and surface threats” and “leading operations through contested choke points.”\n\nThe Spruance was deployed as part of the USS Abraham Lincoln Carrier Strike Group, while the Murphy operated as part of Carrier Strike Group 3 under Destroyer Squadron 21, sailing alongside the Spruance and Lincoln.\n\nBoth ships assisted with combat military operations during Operation Epic Fury and the Iran war, and helped enforce the maritime blockade in the Strait of Hormuz.\n\nThe Spruance eliminated 12 unmanned aerial vehicles, four anti-ship cruise missiles and launched Tomahawk Land-Attack Cruise Missiles at Iranian targets.\n\nIn total, the destroyer logged 43 underway replenishments that successfully provided 8.6 million gallons of fuel.\n\nIt also helped facilitate 190 sorties and 1,150 flight hours for its embarked Helicopter Maritime Strike Squadron Seven One.\n\nIranian government officials have claimed that munitions launched from the USS Spruance on Feb. 28 are responsible for a missile attack in Minab, Iran, that killed 156 civilians, 120 of whom were children.\n\nReuters first reported on March 5 that an initial, internal U.S. military investigation showed U.S. forces were likely responsible for the fatal strike in Minab on the opening day of the war with Iran.\n\nBloomberg on Oct. 15 reportedthat the Pentagon planned to hold its internal investigation until after midterms, despite various independent investigations alreadypointing to U.S. involvement in the strike.\n\nOn Friday, the Iranian governmentappearedto threaten the commander and executive officer of the ship in a social media post.\n\nThe Murphy defended 14 U.S. and allied nation vessels and transited through the Strait of Hormuz 12 times while facing surface, air and mine threats.\n\nThe ship netted 97,000 nautical miles, completed 43 replenishments-at-sea and eight combat in-port refuelings, and was responsible for the successful delivery of upwards of 10 million gallons of fuel for vessels.\n\nThe ship’s detached Helicopter Maritime Strike Squadron Seven One component flew “330 sorties and over 900 mishap-free flight hours, including 273.4 combat flight hours,” the Navy said.\n\nOn Sept. 27, the Navy fired the Murphy’s commanding officer, Cmdr. Caitlin Cunningham, due to a loss of confidence in her ability to command.\n\nService members aboard both ships were given the Presidential Unit Citation and the Combat Action Ribbon for their heroic efforts.\n\nRiley Ceder is a reporter at Military Times, where he covers breaking news, criminal justice, investigations, and cyber. He previously worked as an investigative practicum student at The Washington Post, where he contributed to the Abused by the Badge investigation.",
+      "tags": [
+        "Daily News Roundup",
+        "News",
+        "Newsletters",
+        "Your Navy",
+        "deployment",
+        "Iran war",
+        "Joint Base Pearl Harbor-Hickam",
+        "Naval Base San Diego",
+        "Operation Epic Fury",
+        "USS Michael Murphy",
+        "USS Spruance"
+      ],
+      "_carrier_keywords": [
+        "carrier",
+        "carrier strike group",
+        "USS Abraham Lincoln"
+      ],
+      "_match_count": 3
+    }
+  ]
+}
