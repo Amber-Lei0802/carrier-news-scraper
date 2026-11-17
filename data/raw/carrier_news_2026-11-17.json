@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-17",
+  "source_count": 1,
+  "item_count": 1,
+  "items": [
+    {
+      "name": "USS Theodore Roosevelt Now in the Middle East, Lincoln’s Last Escorts Finally Home",
+      "url": "https://news.usni.org/2026/11/16/uss-theodore-roosevelt-now-in-the-middle-east-lincolns-last-escorts-finally-home",
+      "source": "USNI News",
+      "source_domain": "news.usni.org",
+      "date_published": "2026-11-16",
+      "date_found": "2026-11-17",
+      "summary": "A third U.S. aircraft carrier and its escorts are now in the Middle East. USS Theodore Roosevelt (CVN-71) chopped into U.S. 5th Fleet on Sunday. The arrival of the Theodore Roosevelt Carrier Strike Group makes three U.S. carrier strike groups in the Middle East, as tensions persist between the U.S. and Iran. Over the weekend, the Houthis continued to claim areas around the Bab el-Mandeb – the strategic chokepoint that connects the Gulf of Aden to the Red Sea – while Iranian forces claim they attacked a U.S. radar in Bahrain on Friday. U.S. Central Command denied the claim posting",
+      "full_text": "",
+      "tags": [
+        "Aviation",
+        "Iran",
+        "News & Analysis",
+        "Surface Forces",
+        "U.S. Navy",
+        "us navy",
+        "USS George Washington (CVN-73)",
+        "USS Michael Murphy",
+        "USS Spruance (DDG-111)",
+        "USS Theodore Roosevelt (CVN-71)"
+      ],
+      "_carrier_keywords": [
+        "aircraft carrier",
+        "carrier",
+        "CVN",
+        "carrier strike group",
+        "USS Theodore Roosevelt"
+      ],
+      "_match_count": 5
+    }
+  ]
+}
